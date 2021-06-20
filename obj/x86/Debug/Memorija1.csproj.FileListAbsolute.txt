@@ -1,0 +1,38 @@
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\bin\Debug\Memorija1.exe
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\bin\Debug\Memorija1.pdb
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\Memorija1.Form1.resources
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\Memorija1.Properties.Resources.resources
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\Memorija1.exe
+c:\users\aleksandar\documents\visual studio 2010\Projects\Memorija1\Memorija1\obj\x86\Debug\Memorija1.pdb
+C:\Users\Aleksandar\Desktop\Memorija1\Memorija1\obj\x86\Debug\Memorija1.exe
+C:\Users\Aleksandar\Desktop\Memorija1\Memorija1\obj\x86\Debug\Memorija1.pdb
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.exe
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.pdb
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\bin\Debug\Memorija1.exe
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\bin\Debug\Memorija1.pdb
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.Form1.resources
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.Properties.Resources.resources
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.csproj.GenerateResource.Cache
+C:\Users\100janov\Desktop\fax\Memorija1\Memorija1\obj\x86\Debug\Memorija1.csprojResolveAssemblyReference.cache
+C:\Users\100janov\Desktop\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.exe
+C:\Users\100janov\Desktop\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.pdb
+D:\Fakultet\fax\Memorija\Memorija1\bin\Debug\Memorija1.exe
+D:\Fakultet\fax\Memorija\Memorija1\bin\Debug\Memorija1.pdb
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.csprojResolveAssemblyReference.cache
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.Form1.resources
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.Properties.Resources.resources
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.csproj.GenerateResource.Cache
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.exe
+D:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.pdb
+G:\Fakultet\fax\Memorija\Memorija1\bin\Debug\Memorija1.exe
+G:\Fakultet\fax\Memorija\Memorija1\bin\Debug\Memorija1.pdb
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.csprojAssemblyReference.cache
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.Form1.resources
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.Properties.Resources.resources
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.csproj.GenerateResource.cache
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.csproj.CoreCompileInputs.cache
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.exe
+G:\Fakultet\fax\Memorija\Memorija1\obj\x86\Debug\Memorija1.pdb
